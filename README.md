@@ -15,7 +15,6 @@ Before running the project, make sure you have the following dependencies instal
 
 - **OpenCV :** Utilisé pour le traitement d'images et de vidéos en temps réel, notamment pour capturer et manipuler des flux vidéo provenant de la webcam.
 - **MediaPipe :** Fournit des solutions d'apprentissage automatique, ici utilisé pour la détection des mains et des landmarks (points de repère) sur les mains pour compter les doigts.
-- **Pygame :** Une bibliothèque multimédia utilisée pour ajouter du son ou d'autres interactions à l'application. Cependant, elle n'est pas utilisée directement dans le script donné.
 - **Matplotlib :** Utilisé pour afficher les images traitées, notamment pour visualiser les résultats des détections et des transformations.
 - **Numpy :** Utilisé pour des opérations mathématiques et manipulation efficace de tableaux multidimensionnels, particulièrement avec les images.
 
